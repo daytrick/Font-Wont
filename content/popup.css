@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'DP Sans Mono';
+    /* src: url('fonts/DPSansMono.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+    src: url('https://github.com/DistributedProofreaders/dproofreaders/raw/master/styles/fonts/DPSansMono.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+html {
+    min-width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
+body {
+    font-family: 'DP Sans Mono', 'cursive';
+    color: rgb(39, 30, 25);
+}

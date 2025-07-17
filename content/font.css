@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'DP Sans Mono';
+    /* src: url('fonts/DPSansMono.ttf') format('truetype'); */
+    src: url('https://github.com/DistributedProofreaders/dproofreaders/raw/master/styles/fonts/DPSansMono.ttf') format('truetype');
+}

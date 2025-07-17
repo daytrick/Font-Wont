@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Font Wont",
+    "version": "1",
+    "description": "Replace a webpage's main font with the font of your choice.",
+    "content_scripts": [
+        {
+            "js": ["content/content.js"],
+            "css": ["content/font.css"],
+            "matches": [
+               "*://*/*"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "action": {
+        "default_title": "Font Wont",
+        "default_popup": "content/popup.html"
+    }
+}
