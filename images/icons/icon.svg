@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.5175781"
+     inkscape:cx="256"
+     inkscape:cy="259.95367"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:466.667px;font-family:'DP Sans Mono';-inkscape-font-specification:'DP Sans Mono';text-align:center;text-anchor:middle;fill:#1b6435;fill-opacity:1;stroke:#d0ffe2;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.94284,25.93502 H 239.23595 V 64.672026 H 85.19939 V 164.93251 h 139.68108 v 38.73701 H 85.19939 V 366.13708 H 38.94284 Z"
+       id="text1"
+       aria-label="F" />
+    <path
+       d="m 192.10006,230.85647 h 41.47139 l 44.43362,206.21759 36.45836,-131.70582 h 35.77476 l 36.91409,131.70582 44.43363,-206.21759 h 41.47138 l -59.70056,255.20851 h -40.1042 L 332.46474,346.15603 291.90482,486.06498 h -40.10419 z"
+       id="text2"
+       style="font-size:466.667px;font-family:'DP Sans Mono';-inkscape-font-specification:'DP Sans Mono';text-align:center;text-anchor:middle;fill:#1b6435;stroke:#d0ffe2;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       aria-label="w" />
+  </g>
+</svg>
