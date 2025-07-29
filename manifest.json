@@ -9,6 +9,9 @@
         "48": "images/icons/icon_48.png",
         "128": "images/icons/icon_128.png" 
     },
+    "permissions": [
+        "storage"
+    ],
     "content_scripts": [
         {
             "js": ["content/content.js"],
